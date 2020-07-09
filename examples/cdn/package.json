@@ -1,0 +1,15 @@
+{
+  "name": "frontend-library-boilerplate-cdn-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "greeting": "link:1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
